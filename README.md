@@ -4,7 +4,7 @@ n8n resources
 ## n8n Documentation & Resources
 https://docs.google.com/document/d/1zzRuVvoQT2wrxsFxbRQulCm2pPKTCcT-jnJ_v_OsoAM/mobilebasic
 
-## n8n Integration Guide
+## Master AI in depth - full guide
 https://docs.google.com/document/d/1Rbjw1mOxMag6QjRS4YH2jEDe8c1tXOB4kcRcNmR7qJA/mobilebasic
 
 ## n8n Workflows Archive
